@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFacebook</string>
+
+    <string name="admob_sample_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_sample_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_app_id">ca-app-pub-1782138514865144~7358691011</string>
+    <string name="admob_banner_1_unit_id">ca-app-pub-1782138514865144/6438197874</string>
+</resources>
